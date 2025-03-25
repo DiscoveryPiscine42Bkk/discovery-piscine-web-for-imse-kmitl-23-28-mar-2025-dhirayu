@@ -1,0 +1,5 @@
+body {
+    text-align: center;
+    padding: 50px;
+    transition: background-color 0.5s; /* ทำให้เปลี่ยนสีแบบนุ่มนวล */
+}
